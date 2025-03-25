@@ -1,7 +1,7 @@
 # Sanitize Custom Fields for mod_security
 
 ## Description
-This WordPress plugin prevents `mod_security` from blocking HTTP POST requests containing `<style>` and `<script>` tags in custom fields. It replaces these tags with placeholders before saving and restores them when displaying or previewing content.
+This WordPress plugin prevents `mod_security` from blocking HTTP POST requests containing `<style>` and `<script>` tags in custom fields. It replaces these tags with placeholders before saving and restores them when displaying.
 
 ## Features
 - ✅ **Automatically applies to all custom fields**
